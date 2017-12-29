@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FragmentsFlexibleUI</string>
+
+    <string-array name="titles">
+        <item>Activites</item>
+        <item>Services</item>
+        <item>Content Provider</item>
+        <item>Intent</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>Activites description</item>
+        <item>Services description</item>
+        <item>Content Provider description</item>
+        <item>Intent description</item>
+
+    </string-array>
+</resources>
